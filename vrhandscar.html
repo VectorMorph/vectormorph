@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Modern Business - Start Bootstrap Template</title>
+    <title>VectorMorph</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -19,13 +19,13 @@
     <!-- Custom styles for this template -->
 
     <link href="css/modern-business.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-    <link href="css/store.css" rel="stylesheet">
 
 
     <!-- Temporary navbar container fix -->
     <style>
     h2{color: #454545;}
+
+    .card{margin-top: 10%;}
 
     .navbar-toggler {
         z-index: 1;
@@ -64,30 +64,52 @@
 
     <!-- Page Content -->
     <div class="container">
-
+		<div class="card">
         <!-- Page Heading/Breadcrumbs -->
-
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <!-- Slide One - Set the background image for this slide in the line below -->
+                <div class="carousel-item active" style="background-image: url('./store/vrhands/vrhands_thumb.png')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <!-- Slide Two - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('./store/vrhands/shades.png')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <!-- Slide Three - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('./store/vrhands/mat.png')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
         <!--NEW STOREFRONT-->
 
-        <div class="container">
-		<div class="card">
+
+
 			<div class="container-fliud">
-				<div class="wrapper row">
-					<div class="preview col-md-6">
 
-						<div class="preview-pic tab-content">
-						  <div class="tab-pane active" id="pic-1"><img src="store/vrhands/vrhands_thumb.png" /></div>
-						  <div class="tab-pane" id="pic-2"><img src="store/vrhands/mat.png" /></div>
-						  <div class="tab-pane" id="pic-3"><img src="store/vrhands/shades.png" /></div>
-						</div>
-						<ul class="preview-thumbnail nav nav-tabs">
-						  <li class="active"><a data-target="#pic-1" data-toggle="tab"><img src="store/vrhands/vrhands_thumb.png" /></a></li>
-						  <li><a data-target="#pic-2" data-toggle="tab"><img src="store/vrhands/mat.png" /></a></li>
-						  <li><a data-target="#pic-3" data-toggle="tab"><img src="store/vrhands/shades.png" /></a></li>
-						</ul>
-
-					</div>
-					<div class="details col-md-6">
 						<h2 class="product-title">Vr Hands</h2>
 						<div class="rating">
 							<div class="stars">
@@ -101,11 +123,10 @@
             <p>Unity asset to aid vr developers in creating games and experiences. Complete with 14 animations and a flexible animation script to choose which animations are needed.</p>
             <p>The package comes with a Photoshop document and a UV texture for those who wish to use other programs like GIMP.</p>
 						<div class="action"><button class="add-to-cart btn btn-default" type="button">Asset Store</button></div>
-					</div>
-				</div>
+
 			</div>
 		</div>
-	</div>
+
 
         <!-- Related Projects Row -->
         <h3 class="my-4">Other Products</h3>

@@ -45,7 +45,7 @@ li{
 
 footer{
   background-color: #21252b;
-  margin-bottom: 0
+  margin-bottom: 0;
 }
 
 .card-block{
@@ -58,6 +58,10 @@ footer{
 
 a{
   color: #757575;
+}
+
+.blog{
+  margin-bottom: 10%;
 }
 
 /*.bg-inverse{

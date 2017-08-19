@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    version="1.1"
    id="SVGRoot"
-   inkscape:export-filename="C:\Users\Alex\Desktop\vector.png"
+   inkscape:export-filename="C:\Users\Alex\Desktop\Possible Logos\vectormorph_blog.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="111.95546"
-     inkscape:cy="164.56456"
+     inkscape:zoom="2"
+     inkscape:cx="124.679"
+     inkscape:cy="167.75821"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,23 +61,23 @@
      inkscape:label="Layer 1">
     <circle
        id="path3715-1"
-       cx="230.52969"
-       cy="25.682932"
+       cx="220.27664"
+       cy="33.461105"
        r="5.75"
-       style="fill:none;stroke:#000006;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        id="path3715-14"
-       cx="169.03038"
-       cy="31.618595"
+       cx="171.85881"
+       cy="32.50248"
        r="5.75"
-       style="fill:none;stroke:#000006;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="fill:none;stroke:#000006;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000015;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 24.748737,32.2007 127.5,233.72614 222.38508,32.2007 H 176.7767"
        id="path3764"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;fill:none;stroke:#000006;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;stroke:#000015;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4575"
        width="256"
        height="256"
@@ -85,15 +85,15 @@
        y="-1.3507552e-007" />
     <circle
        id="path3715-14-8"
-       cx="21.425514"
-       cy="25.233412"
+       cx="24.430717"
+       cy="31.950926"
        r="5.75"
-       style="fill:none;stroke:#000006;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        id="path3715-14-4"
-       cx="127.64796"
-       cy="244.25951"
+       cx="127.47118"
+       cy="231.17802"
        r="5.75"
-       style="fill:none;stroke:#000006;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
