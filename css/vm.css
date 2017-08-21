@@ -1,18 +1,13 @@
-/*!
- * Start Bootstrap - Modern Business (http://startbootstrap.com/template-overviews/modern-business)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
- */
-
 body {
     padding-top: 54px;
     background-color: #FFFFFF;
 }
 
 
+body {font-family: 'open sans';}
 
 h1,h2,h3,h4,h5,h6{
-  color: #212121;
+  font-weight: bold;text-transform: UPPERCASE;color: #454545;
 }
 
 p{
@@ -63,11 +58,6 @@ a{
 .blog{
   margin-bottom: 10%;
 }
-
-/*.bg-inverse{
-  background-color: #21252b;
-  292b2c
-}*/
 
 .hide-bullets {
     list-style:none;
